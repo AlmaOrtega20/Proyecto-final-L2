@@ -23,10 +23,10 @@ public class BasedeDatos
 
         public void cargarAlumnos()
         {
-            Alumno a1 = new Alumno("T0001", "Paola Anaytee", "Torres Salinas", 16);
+            Alumno a1 = new Alumno("T0001", "Alma Del Carmen", "Ortega Enamorado", 16);
             ListadeAlumnos.Add(a1);
             
-            Alumno a2 = new Alumno("T0002","Belkis Tatiana", "Rivera Dominguez", 14);
+            Alumno a2 = new Alumno("T0002","Belkis audet", "Rivera Dominguez", 14);
             ListadeAlumnos.Add(a2);
 
         
